@@ -4,6 +4,7 @@
   "main": "app.ts",
   "scripts": {
     "test": "jest",
+    "build": "tsc",
     "start": "ts-node app.ts"
   },
   "keywords": [],
