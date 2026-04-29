@@ -2,6 +2,7 @@
   "name": "cardvalidation-api",
   "version": "1.0.0",
   "main": "app.ts",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "build": "tsc",
